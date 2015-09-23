@@ -1,5 +1,7 @@
 # siteproof
 
+[![Build Status](https://travis-ci.org/mvayngrib/siteproof.svg)](https://travis-ci.org/mvayngrib/siteproof)
+
 Prove/verify domain ownership
 
 ## Usage
