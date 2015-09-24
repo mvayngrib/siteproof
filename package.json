@@ -11,6 +11,13 @@
     "style",
     "test"
   ],
+  "keywords": [
+    "domain",
+    "proof",
+    "identity",
+    "tradle",
+    "ownership"
+  ],
   "author": "Mark Vayngrib <mark.vayngrib@lablz.com> (http://github.com/mvayngrib)",
   "license": "ISC",
   "dependencies": {
