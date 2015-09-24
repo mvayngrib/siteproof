@@ -17,6 +17,7 @@
     "dns.js": "^1.0.1",
     "elliptic": "^3.1.0",
     "kiki": "^1.1.4",
+    "midentity": "^1.0.4",
     "q": "^1.4.1"
   },
   "devDependencies": {
